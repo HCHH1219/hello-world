@@ -14,11 +14,8 @@ main{
 }
 
 .masthead {
-    background-size: no-repeat bottom / cover url('images/Background_01.jpg');
-    background-image: url('images/Background_01.jpg');
-    background-position: bottom;
-    background: no-repeat bottom / cover;
-    height: 300px;
+    background: no-repeat bottom / cover url('images/Background_01.jpg');
+    height: 250px;
     border-radius: 20px;
 
 }

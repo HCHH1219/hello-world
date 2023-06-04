@@ -13,7 +13,12 @@ main{
 }
 
 .masthead {
-    background-image: url('images/Background_01.jpg')
+    background-image: url('images/Background_01.jpg');
+    background-size: cover;
+    background-position: bottom;
+    height: 200px;
+    border-radius: 28px;
+
 }
 
 .details {

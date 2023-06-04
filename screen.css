@@ -44,8 +44,9 @@ h1 {
     background-image: url('images/Logo_Reversion.png');
     background-repeat: no-repeat;
     background-size: 66px;
+    background-position: center left;
     font-size: 3em;
-    padding-left: 50px;
+    padding-left: 55px;
 }
 
 h2 {
